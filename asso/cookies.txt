@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.harenamanasoa.org	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1678821370|4QML2-e_wp9Z
+www.harenamanasoa.org	TRUE	/	FALSE	1999999999	SameSite	None
+www.harenamanasoa.org	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=euw1_g
+
